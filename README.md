@@ -72,21 +72,6 @@ This project presents a complete end-to-end e-commerce analytics solution built 
 
 ---
 
-📂 Project Structure
-
-amazon-sales-analytics/
-│
-├── data/              # Raw and processed datasets
-├── notebooks/         # Jupyter notebooks (EDA, cleaning)
-├── src/               # Python scripts
-├── sql/               # Database schema and data loading preparation
-├── dashboard/         # Power BI file
-├── reports/           # Insights and reports
-├── requirements.txt   # Dependencies
-└── README.md          # Project documentation
-
----
-
 ▶️ How to Run
 
 1. Clone the repository
@@ -104,7 +89,21 @@ amazon-sales-analytics/
 - Deployment as a web application
 
 ---
+📂 Project Structure
 
+<pre>amazon-sales-analytics/
+│
+├── data/              # Raw and processed datasets
+├── notebooks/         # Jupyter notebooks (EDA, cleaning)
+├── src/               # Python scripts
+├── sql/               # Database schema and data loading preparation
+├── dashboard/         # Power BI file
+├── reports/           # Insights and reports
+├── requirements.txt   # Dependencies
+└── README.md          # Project documentation
+<pre>
+
+---
 👨‍💻 Author
 
 Abdul Razzaq
