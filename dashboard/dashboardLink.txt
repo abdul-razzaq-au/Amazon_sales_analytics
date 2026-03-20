@@ -1,0 +1,2 @@
+Since the dashboard size is large (more than 25 MB), it could not be uploaded here. So I am providing a link to the drive containing the .pbix file of PowerBI dashboard.
+Here is the link : https://drive.google.com/file/d/1-zdkgYMTw9aEcJeyqOOVD7T8DmoSYftI/view?usp=sharing
