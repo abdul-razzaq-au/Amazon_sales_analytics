@@ -89,6 +89,11 @@ This project presents a complete end-to-end e-commerce analytics solution built 
 - Deployment as a web application
 
 ---
+👨‍💻 Author
+
+Abdul Razzaq
+
+---
 📂 Project Structure
 
 <pre>amazon-sales-analytics/
@@ -103,7 +108,3 @@ This project presents a complete end-to-end e-commerce analytics solution built 
 └── README.md          # Project documentation
 <pre>
 
----
-👨‍💻 Author
-
-Abdul Razzaq
